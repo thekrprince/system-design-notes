@@ -26,5 +26,12 @@
 
      While 2-tier architectures are straightforward and easy to implement, they may have limitations in terms of scalability and maintenance, especially for large and complex systems. As a result, more modern architectures, such as 3-tier and n-tier architectures, have become popular to address these scalability and maintenance challenges.
 
-  2. **3-tier architecture:**
+  2. **3-tier architecture:** It is a software architecture model that divides an application into three interconnected components or tiers, each responsible for specific functions. The three tiers in this architecture are the presentation tier (client), the application or logic tier, and the data tier.
+
+     a. Presentation Tier (Client):
+
+     - This tier represents the user interface and user interaction components. It's the part of the application that users directly interact with.
+     - The client tier is responsible for presenting information to users, capturing user inputs, and providing a graphical interface for interaction.
+     - It communicates with the application tier to request and receive data, as well as to execute specific application functions.
+
   3. **n-tier architecture:**

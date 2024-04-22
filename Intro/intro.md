@@ -44,6 +44,10 @@
 
      - The data tier is responsible for managing data storage, retrieval, and database management.
      - It stores and retrieves data from a database based on requests from the application tier. This tier is often referred to as the database server.
-     - The data tier ensures data integrity, security, and efficient storage and retrieval
+     - The data tier ensures data integrity, security, and efficient storage and retrieval.
+
+     In a 3-tier architecture, the communication flow typically follows a client-server model, where the client interacts with the application tier, and the application tier interacts with the data tier. This separation of concerns into three distinct tiers offers several advantages, including better scalability, maintainability, and flexibility in updating or replacing individual components without affecting the entire system.
+
+     This architecture is commonly used in web applications, where the presentation tier is the user's web browser, the application tier is the web server processing requests, and the data tier is a database server managing the storage and retrieval of data.
 
   3. **n-tier architecture:**

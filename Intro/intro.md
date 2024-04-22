@@ -28,10 +28,22 @@
 
   2. **3-tier architecture:** It is a software architecture model that divides an application into three interconnected components or tiers, each responsible for specific functions. The three tiers in this architecture are the presentation tier (client), the application or logic tier, and the data tier.
 
-     a. Presentation Tier (Client):
+     a. **Presentation Tier (Client):**
 
      - This tier represents the user interface and user interaction components. It's the part of the application that users directly interact with.
      - The client tier is responsible for presenting information to users, capturing user inputs, and providing a graphical interface for interaction.
      - It communicates with the application tier to request and receive data, as well as to execute specific application functions.
+
+     b. **Application Tier (Logic Tier):**
+
+     - The application tier, also known as the logic tier or middle tier, contains the business logic and application processing.
+     - It processes and executes application-specific logic, handling tasks such as validation, calculations, and workflow management.
+     - The application tier communicates with both the presentation tier (client) and the data tier (server) to retrieve and manipulate data as needed.
+
+     c. **Data Tier (Server):**
+
+     - The data tier is responsible for managing data storage, retrieval, and database management.
+     - It stores and retrieves data from a database based on requests from the application tier. This tier is often referred to as the database server.
+     - The data tier ensures data integrity, security, and efficient storage and retrieval
 
   3. **n-tier architecture:**

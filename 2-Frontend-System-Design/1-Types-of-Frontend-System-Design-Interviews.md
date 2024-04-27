@@ -19,3 +19,12 @@
 4. Machine/Component Design
    - Component Architecture
    - Data API & Implementation
+
+## Tools
+
+- Draw.io
+- Gliffy.com
+- Miro.com
+- Lucidchart.com
+- One Note (Microsoft)
+- Jamboard (Google)

@@ -104,3 +104,8 @@
 - Discuss either the HLD or LLD depending upon what's asked specifically.
 - HLD is mostly asked to Senior Devs(5+ YOE) but can be asked to Junior Devs sometimes.
 - Try to showcase the knowledge you have in that short span of time, you might have to speak a lot for this.
+- Keep on checking requirement/expectations from the interviewer.
+- Don't rush into implementation.
+- Pick one problem at a time.
+- Get familiar with the tools which will help you to explain.
+- Practice 2-3 System design using different tools.

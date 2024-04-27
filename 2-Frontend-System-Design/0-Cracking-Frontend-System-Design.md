@@ -98,3 +98,9 @@
             iii. Customization (Theming)
             iv. Reusability
             v. Data Source
+
+### Notes for System Design Interviews
+
+- Discuss either the HLD or LLD depending upon what's asked specifically.
+- HLD is mostly asked to Senior Devs(5+ YOE) but can be asked to Junior Devs sometimes.
+- Try to showcase the knowledge you have in that short span of time, you might have to speak a lot for this.
